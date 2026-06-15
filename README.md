@@ -1,4 +1,4 @@
-# API - Cadastro de Itens Recicláveis
+# API - Cadastro de Itens Recicláveis (Backend)
 
 Backend REST (Node.js + Express + SQLite) para gerenciar o cadastro de itens recicláveis (criar, listar, editar e excluir).
 
